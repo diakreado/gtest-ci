@@ -2,6 +2,7 @@ name: Testing
 
 on:
   push:
+    main
 
 jobs:
   build:
